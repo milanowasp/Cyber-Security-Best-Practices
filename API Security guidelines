@@ -1,0 +1,18 @@
+What is API?
+An API, or Application Programming Interface, is a set of rules that specifies how two software programs should interact with each other. APIs enable software developers to build programs that can use the functionality of other programs. For example, if a developer wanted to use a specific feature of an operating system or a piece of software, they could use the API provided by that software to access that feature. APIs are a way for different software programs to communicate with each other and share data and functionality.
+
+**Why we need to secure our APIs?
+APIs are used to allow different software programs to communicate with each other, and as such, they can often be accessed over the internet. If an API is not secured, it can potentially be accessed by anyone with an internet connection, which can lead to security vulnerabilities. Hackers could use an unsecured API to gain access to sensitive data or to disrupt the operation of the system that the API is a part of. In order to protect against these types of threats, it is important to secure APIs by implementing authentication and authorization measures, as well as other security measures such as encryption and input validation.
+
+What is API Gateway?
+An API gateway is a software layer that sits between an API and its clients. Its primary purpose is to route API requests to the appropriate backend service and return the service's response back to the client.
+
+API gateways can provide additional functionality such as:
+  •	Load balancing: Distributing incoming API requests across multiple backend services to improve performance and availability.
+  •	Caching: Storing the responses from backend services in memory to reduce the number of requests made to the backend and improve performance.
+  •	Throttling: Limiting the number of API requests that can be made in a given time period to protect against denial of service attacks.
+  •	Authentication: Verifying the identity of API clients before allowing them to access the API.
+  •	Authorization: Controlling which clients or users are allowed to access the API and which actions they are allowed to perform.
+  •	Monitoring: Tracking the performance of the API and its backend services and generating reports or alerts when issues arise.
+
+API gateways can also act as a single entry point for multiple APIs, making it easier for clients to access the API and for API developers to manage the API.
