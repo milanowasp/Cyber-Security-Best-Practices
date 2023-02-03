@@ -16,3 +16,4 @@ API gateways can provide additional functionality such as:
   •	Monitoring: Tracking the performance of the API and its backend services and generating reports or alerts when issues arise.
 
 API gateways can also act as a single entry point for multiple APIs, making it easier for clients to access the API and for API developers to manage the API.
+.
