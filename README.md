@@ -1,5 +1,6 @@
 # Security Best Practices for Various Domains in Information Technology
 
+Please check individual files for more. This is still work in progress.
 
 1.	**Network Security:**
   •	Use firewalls to control access to the network.
